@@ -1,4 +1,4 @@
-In this task, I'm managing Azure Storage Account
+In this task, I Manage Azure Storage account.
 
 
 
